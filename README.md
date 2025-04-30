@@ -32,7 +32,9 @@
 <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=udityaprakash&theme=dark" alt="GitHub Streak" /></a> -->
 <!--   <img src="https://streak-stats.demolab.com/?user=udityaprakash&theme=dark" alt="streak graph" height="150"/> -->
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=udityaprakash)](https://git.io/streak-stats) -->
-  <a href="https://streak-stats.demolab.com?user=udityaprakash"><img src="https://streak-stats.demolab.com?user=udityaprakash" alt="GitHub Streak" /></a>
+<!--   <a href="https://streak-stats.demolab.com?user=udityaprakash"><img src="https://streak-stats.demolab.com?user=udityaprakash" alt="GitHub Streak" /></a> -->
+  <br> 
+  <a href=" https://github-readme-streak-stats.herokuapp.com/?user=udityaprakash&theme=darcula&hide_border=true&background=FFFFFF00"><img src=" https://github-readme-streak-stats.herokuapp.com/?user=udityaprakash&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak" /></a>
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=udityaprakash&theme=dark)](https://git.io/streak-stats) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udityaprakash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox_light&hide_border=false&custom_title=Stats" height="150" alt="languages graph"  />
 </div>
